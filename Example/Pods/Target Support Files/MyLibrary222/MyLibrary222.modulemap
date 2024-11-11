@@ -1,0 +1,6 @@
+framework module MyLibrary222 {
+  umbrella header "MyLibrary222-umbrella.h"
+
+  export *
+  module * { export * }
+}

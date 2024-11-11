@@ -1,0 +1,6 @@
+framework module Pods_MyLibrary222_Tests {
+  umbrella header "Pods-MyLibrary222_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
