@@ -17,7 +17,6 @@
 		51DF1E7A464B27D2C1C427F42F1A7EB9 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F40892D8D0BD75772B6BEC6EBAC69D /* ReplaceMe.swift */; };
 		7E1835430E1C8450E66E390AB2CD9D74 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */; };
 		8B32D28F969009ED1917FEDA4175B5B0 /* Pods-MyLibrary222_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D2BDB703E48FCFE58BBDE20B57B74B65 /* Pods-MyLibrary222_Tests-dummy.m */; };
-		AAD5C5852CE2376F00DD7C4E /* MyLibrary222.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD5C5842CE2376500DD7C4E /* MyLibrary222.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,7 +59,6 @@
 		8B5C6AC17C0A5923FEB5DDA27CAA211B /* MyLibrary222-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MyLibrary222-Info.plist"; sourceTree = "<group>"; };
 		8BB46E6DC1032CDCFACD3D08B9EF3D4F /* MyLibrary222.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyLibrary222.release.xcconfig; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		AAD5C5842CE2376500DD7C4E /* MyLibrary222.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLibrary222.swift; sourceTree = "<group>"; };
 		B5CB76DD36B968E9E25C00D077E830F9 /* Pods-MyLibrary222_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLibrary222_Tests-Info.plist"; sourceTree = "<group>"; };
 		BC16B7926952E664B808F7A9DE0376E0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C1078EDE67BE38FB1E53FB0A91E4D54D /* Pods-MyLibrary222_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyLibrary222_Example.modulemap"; sourceTree = "<group>"; };
@@ -106,7 +104,6 @@
 			isa = PBXGroup;
 			children = (
 				56F40892D8D0BD75772B6BEC6EBAC69D /* ReplaceMe.swift */,
-				AAD5C5842CE2376500DD7C4E /* MyLibrary222.swift */,
 				D1B47CD58408087989DDF8CEC4B1DDBC /* Pod */,
 				876C3E863E3FAC4BF3FDD393F68DA7E5 /* Support Files */,
 			);
@@ -389,7 +386,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AAD5C5852CE2376F00DD7C4E /* MyLibrary222.swift in Sources */,
 				0CE6B95517BDCD316E91AAD1797D67A5 /* MyLibrary222-dummy.m in Sources */,
 				51DF1E7A464B27D2C1C427F42F1A7EB9 /* ReplaceMe.swift in Sources */,
 			);
